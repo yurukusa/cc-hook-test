@@ -1,6 +1,6 @@
 {
   "name": "cc-hook-test",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Test runner for Claude Code hooks. Auto-detects hook type and runs test cases.",
   "main": "index.mjs",
   "bin": {
@@ -8,10 +8,16 @@
   },
   "keywords": [
     "claude-code",
+    "claude",
+    "anthropic",
     "hooks",
     "testing",
     "safety",
-    "cli"
+    "cli",
+    "pretooluse",
+    "posttooluse",
+    "guard",
+    "test-runner"
   ],
   "author": "yurukusa",
   "license": "MIT",
