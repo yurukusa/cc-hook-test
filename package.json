@@ -1,0 +1,22 @@
+{
+  "name": "cc-hook-test",
+  "version": "1.0.0",
+  "description": "Test runner for Claude Code hooks. Auto-detects hook type and runs test cases.",
+  "main": "index.mjs",
+  "bin": {
+    "cc-hook-test": "index.mjs"
+  },
+  "keywords": [
+    "claude-code",
+    "hooks",
+    "testing",
+    "safety",
+    "cli"
+  ],
+  "author": "yurukusa",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yurukusa/cc-hook-test"
+  }
+}
