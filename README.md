@@ -1,6 +1,8 @@
 # cc-hook-test
 
-Test runner for Claude Code hooks. Auto-detects hook type and generates test cases.
+[![npm version](https://img.shields.io/npm/v/cc-hook-test)](https://www.npmjs.com/package/cc-hook-test)
+
+**Test runner for Claude Code hooks.** Auto-detects hook type and generates test cases.
 
 ```bash
 npx cc-hook-test ~/.claude/hooks/destructive-guard.sh
